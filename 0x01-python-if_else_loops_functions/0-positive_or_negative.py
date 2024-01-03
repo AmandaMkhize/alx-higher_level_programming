@@ -12,4 +12,3 @@ else:
     message += "negative"
 
 print(message)
-

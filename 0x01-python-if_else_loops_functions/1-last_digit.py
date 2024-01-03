@@ -13,4 +13,3 @@ else:
     message = "0"
 
 print(f"Last digit of {number} is {last_digit} and is {message}")
-
